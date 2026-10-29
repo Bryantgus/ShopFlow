@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Catalog/">
+    <Project Path="src/Catalog/ShopFlow.Catalog.Api/ShopFlow.Catalog.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Inventory/">
+    <Project Path="src/Inventory/ShopFlow.Inventory.Api/ShopFlow.Inventory.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Orders/">
+    <Project Path="src/Orders/ShopFlow.Orders.Api/ShopFlow.Orders.Api.csproj" />
+    <Project Path="src/Orders/ShopFlow.Orders.Application/ShopFlow.Orders.Application.csproj" />
+    <Project Path="src/Orders/ShopFlow.Orders.Domain/ShopFlow.Orders.Domain.csproj" />
+    <Project Path="src/Orders/ShopFlow.Orders.Infrastructure/ShopFlow.Orders.Infrastructure.csproj" />
+  </Folder>
+</Solution>
